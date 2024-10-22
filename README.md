@@ -1,16 +1,33 @@
-### Hi there 👋
+"""""
+Hey there👋! I’m [Aashvi Goyal], an AI & ML developer passionate about transforming ideas into intelligent solutions. I love diving into data, building models, and exploring the latest trends in technology.
 
-<!--
-**aashvig06/aashvig06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 SKILLS:
+Languages: Python, JavaScript, R
+Frameworks: TensorFlow, PyTorch, Scikit-Learn
+Tools: Git, Docker, Jupyter Notebooks
 
-Here are some ideas to get you started:
+🚀 PROJECTS:
+[Stock Prediction using time series analysis and machine learning]:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Cancer Prediction using Machine Learning]:
+
+[Shopping application]:
+
+[Customer Support Ticket Categorization]:
+
+[Blogger page using frontend]:
+
+[TutotFinder]:
+
+[Games using Python and C++]:
+
+
+📫 Get In Touch:
+I’m always open to collaboration and new ideas! Feel free to reach out via:
+
+Email: [aashvigoyal068@gmail.com]
+     : [tishagoyalcpb@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/aashvi-goyal-3017b42a2/]
+Let’s build something awesome together! 💻✨
+
+"""""
